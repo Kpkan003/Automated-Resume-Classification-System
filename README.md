@@ -109,3 +109,5 @@ app
 **Preview**
 
 ![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/0ee47e4be52628f61a524f744058843c8c5feb98/resume%20cls_1.png)
+![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/f03e8b820b9b4c3ca95a10261bb4995e1658820a/resume%20cls_2.png)
+![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/f03e8b820b9b4c3ca95a10261bb4995e1658820a/resume%20cls_3.png)
