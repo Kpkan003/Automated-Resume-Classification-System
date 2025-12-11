@@ -108,4 +108,4 @@ app
 
 **Preview**
 
-
+![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/0ee47e4be52628f61a524f744058843c8c5feb98/resume%20cls_1.png)
