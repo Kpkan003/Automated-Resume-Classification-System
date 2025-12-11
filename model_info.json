@@ -1,0 +1,14 @@
+{
+    "best_model": "SVM",
+    "accuracy": 1.0,
+    "f1_score": 1.0,
+    "categories": [
+        "Peoplesoft",
+        "React Developer",
+        "SQL Developer",
+        "Workday"
+    ],
+    "n_features": 3183,
+    "train_size": 42,
+    "test_size": 11
+}
