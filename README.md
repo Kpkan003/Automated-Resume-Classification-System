@@ -108,10 +108,15 @@ app
 
 **Preview**
 
-Upload Resume (PDF/DOCX)
-- Automatically extract text and classify into the correct category.
+**- Upload Resume (PDF/DOCX)
+Automatically extract text and classify into the correct category.**
+  
 ![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/0ee47e4be52628f61a524f744058843c8c5feb98/resume%20cls_1.png)
-- File is loaded
+
+**- File is loaded**
+
 ![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/f03e8b820b9b4c3ca95a10261bb4995e1658820a/resume%20cls_2.png)
-- Classification result Report
+
+**- Classification result Report**
+
 ![image alt](https://github.com/Kpkan003/Automated-Resume-Classification-System/blob/f03e8b820b9b4c3ca95a10261bb4995e1658820a/resume%20cls_3.png)
